@@ -19,4 +19,76 @@
 
 
 
+💝 Skills
+Programming and OS:
+scripting languages : python shell script R
+
+web development languages : markdown html css3
+
+frameworks : django angular jquery
+
+scientific libraries : pandas scipy numpy
+
+operating system : linux windows macos
+
+Data Ecosystem:
+relational databases : sqlite mysql
+
+object data stores: amazons3 mongodb, Azure blob, HDFS
+
+data warehouses : hive redshift bigquery postgres
+
+big data development & processing frameworks : apachespark apachehadoop
+
+data platforms : databricks
+
+job scheduling & orchestration : apacheairflow, Oozie, Adobe Dart, Tidal
+
+data quality & governance : dbt, Great Expectations
+
+API Pipeline:
+API Pipeline : postman
+Visualization Tools:
+visualization tools : powerbi tableau
+Version control and CICD:
+version control : git github
+
+cicd : github actions
+
+Cloud Engineering and DevOps:
+IAC : terraform
+
+deployment : docker
+
+cloud : aws google cloud azure
+
+Other tools:
+IDE : visual studio code pycharm sublimetext atom vim
+
+notebooks : colab jupyter
+
+linters : pandas
+
+office essentials : google sheet excel sharepoint excel
+
+project management tools : jira, excel, ServiceNow
+
+documentation : confluence
+
+terminal : confluence
+
+ad measurement platforms : confluence googleanalytics, Adobe Analytics
+
+blogging platforms : wordpress medium medium
+
+design tools : canva
+
+social media ads reporting API integrations : youtube facebook tiktok snapchat googleads
+
+data science concepts : statistics, machine learning, A/B testing, marketing mix models, descriptive data analysis, hypothesis testing
+
+project delivery methodologies : agile
+
+learning source : discord reddit applepodcasts
+
 
