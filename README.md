@@ -12,6 +12,4 @@
 
 🤖 Implemented sentiment analysis, text generation, and even chatbots using LLMs!
 
-💬 Langchain's documentation and community support have been invaluable in my learning journey.
-
-📫 Let's connect and collaborate on exciting data science projects! Reach me at saiprasanna.cheedepudi@gmail.com
+📫 Let's connect and collaborate on exciting data science projects! Reach me at saicheedepudi@gmail.com
